@@ -1,0 +1,1 @@
+export { HeadlineKeyvisualByAnima } from "./HeadlineKeyvisualByAnima";

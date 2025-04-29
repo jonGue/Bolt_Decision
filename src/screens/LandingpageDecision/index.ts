@@ -1,0 +1,1 @@
+export { LandingpageDecision } from "./LandingpageDecision";

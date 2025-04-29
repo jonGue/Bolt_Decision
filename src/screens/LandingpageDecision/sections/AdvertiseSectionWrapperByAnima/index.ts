@@ -1,0 +1,1 @@
+export { AdvertiseSectionWrapperByAnima } from "./AdvertiseSectionWrapperByAnima";

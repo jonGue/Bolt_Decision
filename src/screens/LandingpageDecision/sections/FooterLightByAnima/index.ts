@@ -1,0 +1,1 @@
+export { FooterLightByAnima } from "./FooterLightByAnima";

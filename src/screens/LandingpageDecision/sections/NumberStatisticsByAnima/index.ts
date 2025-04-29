@@ -1,0 +1,1 @@
+export { NumberStatisticsByAnima } from "./NumberStatisticsByAnima";
